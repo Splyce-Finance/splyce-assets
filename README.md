@@ -1,1 +1,1 @@
-# splyce-assets
+# Splyce Assets

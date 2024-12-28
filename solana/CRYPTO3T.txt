@@ -1,0 +1,7 @@
+{
+    "name": "BTC + ETH + SOL",
+    "symbol": "CRYPTO3T",
+    "description": "The most important 3 crypto tokens",
+    "image": "https://app.splyce.finance/icons/tokens/sply.png",
+    "attributes": []
+}

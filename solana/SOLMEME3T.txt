@@ -1,0 +1,7 @@
+{
+    "name": "Solana Top 3 Meme Tokens Test",
+    "symbol": "SOLMEME3T",
+    "description": "The top 3 meme tokens on Solana",
+    "image": "https://app.splyce.finance/icons/tokens/sply.png",
+    "attributes": []
+}
